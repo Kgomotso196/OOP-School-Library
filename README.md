@@ -94,6 +94,11 @@ In order to run this project you need:
 Clone this repository to your desired folder using:
 `git clone https://github.com/Kgomotso196/OOP-School-Library.git` on your terminal.
 
+### Run tests
+
+To run tests use the following command:
+`rubocop`
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
