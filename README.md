@@ -31,7 +31,6 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<details>
   <summary>Language</summary>
   <ul>
     <li><a href="https://www.codecademy.com/learn/learn-ruby">Ruby</a></li>
