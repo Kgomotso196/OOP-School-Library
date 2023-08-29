@@ -24,7 +24,7 @@
 
 # 📖 OOP-School-Library  <a name="about-project"></a>
 
-**OOP-School-Library** is a Ruby application operating on the server side, dedicated in efficiently monitoring the library's book stock and the individuals who have borrowed them.
+**OOP-School-Library** is a Ruby application operating on the server side, dedicated in efficiently monitoring the library's book stock and the people who have borrowed them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
