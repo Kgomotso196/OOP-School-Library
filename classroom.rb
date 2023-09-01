@@ -1,17 +1,13 @@
-require_relative '/student'
-
-class Classroom < Student
-  attr_reader :student
-  attr_accessor :label
+class Classroom
+  attr_accessor :label, :students
 
   def initialize(label)
-    super()
     @label = label
     @students = []
   end
 
   def add_student(student)
-    @students << student
     student.classroom = self
+    @students << student
   end
 end
